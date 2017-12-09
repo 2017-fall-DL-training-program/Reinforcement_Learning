@@ -8,32 +8,30 @@
 
 ## Run your code for training
 
-<video src="/images/demo.mp4" width="95%" height="95%" controls>
-Your browser does not support the video tag.
-</video>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/4Kt49E1Ir-I/0.jpg)](http://www.youtube.com/watch?v=4Kt49E1Ir-I)
 
 ## remember to save testing log
 
-In this training, you will get 64.725 point 	
+- In this training, you will get 64.725 point 	
 
 ![](./images/2.png)
 
-Test plot like this:
+- Test plot like this:
 
 ![](./images/22.png)
 
 You may try anthor training (if your algorithm is right but )
 or modify your code.
 
-In this training, you will get 100 point 	
+- In this training, you will get 100 point 	
 
 ![](./images/1.png)
 
-Test plot like this:
+- Test plot like this:
 
 ![](./images/11.png)
 
-That what you want to see.
+That is what you want to see.
 
 ## Remember to save training vedios
 
