@@ -10,7 +10,7 @@
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/4Kt49E1Ir-I/0.jpg)](http://www.youtube.com/watch?v=4Kt49E1Ir-I)
 
-## remember to save testing log
+## Remember to save testing log
 
 - In this training, you will get 64.725 point 	
 
@@ -40,4 +40,4 @@ MONITOR_PATH        = './vedio'       # video path
 RECORD_VIDEO_FLAG   = True            # record video or not
 ```
 
-
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/oMmkCrACVmw/0.jpg)](http://www.youtube.com/watch?v=oMmkCrACVmw)
