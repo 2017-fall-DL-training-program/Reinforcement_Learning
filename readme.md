@@ -1,6 +1,15 @@
 
 # Detials for Lab 4
 
+
+```
+├─ LAB4_slide  [Slide for quick overview]
+├─ LAB4_spec   [Specification for Lab 4] 
+└─ Q-learning   
+     ├─ Q_Learning_Demo.pptx    [Detials for DQN]
+     └─ q_learning_demo.cpp     [Q learning toy demo]
+```
+
 ## Use an Remote Desktop Application to connect to your machine
 
 - [AnyDesk](https://anydesk.com/remote-desktop) for me
